@@ -1,0 +1,47 @@
+	span{
+		color:red;
+		font-weight: bolder;
+		display: none;
+	}
+
+	form{
+		width: 70%;
+		margin: 20px auto;
+	}
+
+	table{
+		width: 90%;
+	}
+
+	tr td{
+		width: 45%;
+		padding: 2px;
+		text-align: right;
+	}
+
+	h2, h3{
+		color: blue;
+		margin: 10px ;
+	}
+
+	a{
+		text-decoration: none;
+		color: blue;
+	}
+
+	#listUsersTable tr td{
+		width: 25%;
+		padding: 2px;
+		margin: 2px;
+		text-align: center;
+	}
+
+	#wrapper{
+		display: block;
+		clear: both;
+		border: 1px solid gray;
+		width: 50%;
+
+		min-height: 500px;
+		margin: auto;
+		}
